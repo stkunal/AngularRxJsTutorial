@@ -43,3 +43,9 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+.vs/ProjectSettings.json
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/AngularRxJsTutorial/FileContentIndex/363329d9-1579-413a-a6f9-74f7f0ccb372.vsidx
+.vs/AngularRxJsTutorial/v17/.wsuo
+.vs/AngularRxJsTutorial/v17/DocumentLayout.json
